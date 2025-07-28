@@ -1,44 +1,30 @@
 # First ML Project
 
-This project compares two machine learning models — \*\*Linear Regression\*\* and \*\*Random Forest Regressor\*\* — using a solubility dataset.
+This project compares two machine learning models — **Linear Regression** and **Random Forest Regressor** — using a solubility dataset.
 
 
 
-\## 📁 Dataset
+📁 **Dataset**
 
 
 
-\- \*\*Source\*\*: \[Delaney Solubility Dataset](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney\_solubility\_with\_descriptors.csv)
+Source: \[Delaney Solubility Dataset](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney\_solubility\_with\_descriptors.csv)
 
-\- \*\*Goal\*\*: Predict water solubility based on molecular structure descriptors.
-
-
-
-\## 🧠 Models Used
+Goal: Predict water solubility based on molecular structure descriptors.
 
 
 
-\- Linear Regression
-
-\- Random Forest Regressor
+**Models Used**
 
 
 
-\## 📊 Evaluation Metrics
+*- Linear Regression*
+
+*- Random Forest Regressor*
 
 
 
-| Model            | Training MSE | Training R² | Test MSE | Test R² |
-
-|------------------|--------------|-------------|----------|---------|
-
-| Linear Regression| 1.0075       | 0.7645      | 1.0207   | 0.7892  |
-
-| Random Forest    | 1.0282       | 0.7597      | 1.4077   | 0.7092  |
-
-
-
-\## ✅ Summary
+**Summary**
 
 
 
