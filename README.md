@@ -1,5 +1,6 @@
 # Hi, I'm Ellah 👩‍💻⚡
 ### Junior Data Scientist | Math & CS Student
+> “If it works but no one understands it, it’s still broken.”
 ---
 
 ## About Me
