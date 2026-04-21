@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a BS Mathematics major in Computer Science at Bulacan State University. I write sometimes to make sense of the world around me, and I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints.
+I am a BS Mathematics major in Computer Science at Bulacan State University. I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints.
 
 ## Tech Stack
 
@@ -35,12 +35,26 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I w
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=merko&hide_border=true&bg_color=00000000" 
+        src="https://github-readme-stats.vercel.app/api?username=donutellah
+        &show_icons=true
+        &hide_border=true
+        &bg_color=00000000
+        &title_color=4CAF50
+        &text_color=A5D6A7
+        &icon_color=81C784
+        &ring_color=2E7D32" 
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah&theme=merko&hide_border=true&background=00000000" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah
+        &hide_border=true
+        &background=00000000
+        &stroke=4CAF50
+        &ring=2E7D32
+        &fire=81C784
+        &currStreakLabel=4CAF50
+        &sideLabels=A5D6A7" 
       />
     </td>
   </tr>
@@ -49,5 +63,12 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I w
 <br/>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah&theme=github&hide_border=true&bg_color=00000000&color=00ff00&line=00ff00&point=00cc66"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah
+  &hide_border=true
+  &bg_color=00000000
+  &color=4CAF50
+  &line=2E7D32
+  &point=81C784
+  &area=true"
+/>
 />
