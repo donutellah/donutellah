@@ -71,4 +71,3 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I l
   &point=81C784
   &area=true"
 />
-/>
