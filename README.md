@@ -1,6 +1,5 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&width=600&lines=Hello+World%2C+I'm+Ellah!" alt="Typing SVG" />
 
----
 ### Junior Data Scientist | Math & CS Student
 > “If it works but no one understands it, it’s still broken.”
 ---
