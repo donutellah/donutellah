@@ -4,6 +4,11 @@
 
 I am a BS Mathematics major in Computer Science student. I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints.
 
+## Coding Activity
+
+<!-- Replace username -->
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donutellah)](https://wakatime.com)
+
 ## Tech Stack
 
 <p align="left">
@@ -20,7 +25,6 @@ I am a BS Mathematics major in Computer Science student. I like reading books th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
