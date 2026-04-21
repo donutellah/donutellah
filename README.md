@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&width=600&lines=Hello+World%2C+I'm+Ellah!" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=90EE90&width=600&lines=Hello+World%2C+I'm+Ellah!" alt="Typing SVG" />
 
 ### Junior Data Scientist | Math & CS Student
 > “If it works but no one understands it, it’s still broken.”
@@ -36,14 +36,14 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I w
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=vue&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah&theme=vue&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah&theme=github-light&hide_border=true" />
