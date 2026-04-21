@@ -6,20 +6,21 @@ I am a BS Mathematics major in Computer Science student. I like reading books th
 
 ## Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ellahvate/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:letsellahvate@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/ellahvate/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.facebook.com/ellahscult/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-81C784?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:letsellahvate@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.facebook.com/ellahscult/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-81C784?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
 
 ## Tech Stack
 <p align="left">
