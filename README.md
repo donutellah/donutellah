@@ -34,14 +34,14 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I w
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=merko&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah&theme=github-dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah&theme=merko&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah&theme=merko&hide_border=true" />
