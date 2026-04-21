@@ -1,9 +1,5 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=90EE90&width=600&lines=Hello+World%2C+I'm+Ellah!" alt="Typing SVG" />
 
-### Junior Data Scientist | Math & CS Student
-> “If it works but no one understands it, it’s still broken.”
----
-
 ## About Me
 
 I am a BS Mathematics major in Computer Science at Bulacan State University. I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints.
