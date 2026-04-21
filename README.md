@@ -33,7 +33,17 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I w
 
 ## GitHub Stats
 
-![Ellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=donutellah&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donutellah&layout=compact&theme=tokyonight)
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=donutellah&theme=tokyo-night&hide_border=true" />
