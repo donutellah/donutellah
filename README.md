@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a BS Mathematics major in Computer Science at Bulacan State University. I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints.
+I am a BS Mathematics major in Computer Science student. I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints.
 
 ## Tech Stack
 
@@ -24,14 +24,13 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
----
 ## GitHub Stats
 
 <table>
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=merko&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&hide_border=true&bg_color=00000000&title_color=4CAF50&icon_color=81C784&text_color=81C784" 
       />
     </td>
     <td>
