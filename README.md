@@ -4,13 +4,11 @@
 
 ## About Me
 
-I am a BS Mathematics major in Computer Science at Bulacan State University, with a strong focus on computational thinking, data-driven analysis, and structured problem-solving. I write sometimes to make sense of the world around me, and I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints. These experiences help me grow not just technically, but also in how I approach fast-paced problem-solving.
-
+I am a BS Mathematics major in Computer Science at Bulacan State University. I write sometimes to make sense of the world around me, and I like reading books that spark curiosity and new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself, collaborate with others, and turn ideas into working prototypes under time constraints. 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
