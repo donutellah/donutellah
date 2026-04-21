@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&width=600&lines=Hello+World%2C+I'm+Ellah!" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&width=600&lines=Hello+World%2C+I'm+Ellah!" alt="Typing SVG" />
+
 ---
 ### Junior Data Scientist | Math & CS Student
 > “If it works but no one understands it, it’s still broken.”
@@ -33,8 +34,7 @@ I am a BS Mathematics major in Computer Science at Bulacan State University. I w
 
 ## GitHub Stats
 
-![Ellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutellah&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donutellah&layout=compact&theme=tokyonight)
 
