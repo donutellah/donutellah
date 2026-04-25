@@ -4,7 +4,7 @@
 
 I am a BS Mathematics major in Computer Science student. I like reading books that spark new ways of thinking. I’m also interested in exploring emerging technologies and understanding how they can be applied to solve real-world problems in meaningful ways. Occasionally, I join hackathons to challenge myself and turn ideas into working prototypes under time constraints.
 
-## Leadership 
+## Leadership & Community
 
 Founder & President — [Computer Science Society BulSu 2025](https://www.facebook.com/compscietybulsu2025/)
 
