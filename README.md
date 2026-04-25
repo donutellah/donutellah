@@ -6,7 +6,7 @@ I am a BS Mathematics major in Computer Science student. I like reading books th
 
 ## Leadership 
 
-Founder & President — [CompSciety BulSu 2025 ](https://www.facebook.com/compscietybulsu2025/)
+Founder & President — [Computer Science Society BulSu 2025](https://www.facebook.com/compscietybulsu2025/)
 
 ## Connect with Me
 
